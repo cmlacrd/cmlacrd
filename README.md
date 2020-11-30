@@ -91,17 +91,12 @@
       height="40"
     />
      <img
-      src="https://github.com/devicons/devicon/tree/master/icons/jquery"
+      src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
       alt="jquery"
       width="40"
       height="40"
     />
-         <img
-      src="https://github.com/devicons/devicon/tree/master/icons/jquery"
-      alt="jquery"
-      width="40"
-      height="40"
-    />
+
 
 </p>
 
