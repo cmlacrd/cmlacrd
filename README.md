@@ -10,12 +10,12 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Global Hitss as DevOps**.
-- 🌱 Learning more about and studying: **Angular, React, UX/UI e Adobe**.
+- 🌱 Learning more about and studying: **Angular, React, Vue.js, UX/UI e Adobe**.
 
 ### Resumo
 
 - 👨‍💻 Eu estou atualmente trabalhando full-time na **Global Hitss como Analista DevOps**.
-- 🌱 Aprendendo mais e estudando: **Angular, React, UX/UI e Pacote Adobe**.
+- 🌱 Aprendendo mais e estudando: **Angular, React, Vue.js, UX/UI e Pacote Adobe**.
 
 
 
