@@ -9,7 +9,7 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Global Hitss as DevOps** and in **Spectrum Center as Fullstack Developer.**
+- 👨‍💻 I'm currently working full-time at **Spectrum Center as Fullstack Developer.**
 - 🌱 Learning more about and studying: **Angular, JavaScript/JQuery, PHP, HTML5/CSS3**.
 
 ### Resumo
