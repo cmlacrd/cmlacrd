@@ -9,13 +9,13 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Spectrum Center as Fullstack Developer.**
-- 🌱 Learning more about and studying: **Angular, JavaScript/JQuery, PHP, HTML5/CSS3**.
+- 👨‍💻 I'm currently working full-time at **Spectrum Center as Fullstack Developer PHP.**
+- 🌱 Learning more about and studying: **Solid/Clean Code, PHP, Data Science and DevOps**.
 
 ### Resumo
 
-- 👨‍💻 Eu estou atualmente trabalhando full-time na **Global Hitss como Analista DevOps** e na **Spectrum Center como Desenvolvedora Fullstack.**
-- 🌱 Aprendendo mais e estudando: **Angular, JavaScript/JQuery, PHP, HTML5/CSS3**.
+- 👨‍💻 Eu estou atualmente trabalhando full-time **Spectrum Center como Desenvolvedora Fullstack PHP.**
+- 🌱 Aprendendo mais e estudando: **Solid/Clean Code, PHP, Data Science e DevOps**.
 
 
 
