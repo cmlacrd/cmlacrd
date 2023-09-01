@@ -31,7 +31,7 @@
       height="40"
     />
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"        
       alt="javascript"
       width="40"
       height="40"
